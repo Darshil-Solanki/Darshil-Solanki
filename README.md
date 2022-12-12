@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Darshil-Solanki
-- 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning Python django and next.js.
+- 👀 I’m interested in learning new technologies.
+- 🌱 I’m currently learning Python,django,android and next.js.
 - 💞️ I’m looking to collaborate on github,dev.to
 - 📫 You can contact me on twitter @_DarshilSolanki and soon on dev.to
