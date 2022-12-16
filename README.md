@@ -1,35 +1,35 @@
 
-![Logo](https://github.com/Darshil-Solanki/Darshil-Solanki/profile.png)
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
 
-# Hi, I'm Darshil Solanki! ðŸ‘‹
+# Hi, I'm Darshil Solanki! 👋
 
 
-## ðŸš€ About Me
-I'm a full stack developer...
+## 🚀 About Me
+I'm a full stack developer.
 
 
-## ðŸ›  Skills
+## 🛠 Skills
 Javascript, HTML, CSS, C,C++, C#,Java, J2EE, 
 Python, Python-django, Android,MySQl,Oracle,SSMS 
 
-## ðŸ”— Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshil-solanki-64652225a)
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshil-solanki-64652225a/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_DarshilSolanki)
 
 
-## More Common Github Profile Sections
-ðŸ‘©â€ðŸ’» I'm currently working on final year project in python django.
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on final year project in python django.
 
-ðŸ§  I'm currently learning Android
+🧠 I'm currently learning Android
 
-ðŸ‘¯â€â™€ï¸ I'm looking to collaborate on Github
+👯‍♀️ I'm looking to collaborate on Github
 
-ðŸ¤” I'm looking for help with Python django Social media application
+🤔 I'm looking for help with Python django Social media application
 
-ðŸ“« How to reach me @_darshilsolanki @ twitter
+📫 How to reach me @_DarshilSolanki @ twitter
 
-ðŸ˜„ Pronouns he/him/his
+😄 Pronouns he/him/his
 
-âš¡ï¸ Fun fact: Anyone can code
+⚡️ Fun fact: Anyone can code
 
