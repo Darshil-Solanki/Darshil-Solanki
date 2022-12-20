@@ -23,11 +23,9 @@ Python, Python-django, Android,MySQl,Oracle,SSMS
 
 🧠 I'm currently learning Android
 
-👯‍♀️ I'm looking to collaborate on Github
-
 🤔 I'm looking for help with Python django Social media application
 
-📫 How to reach me @_DarshilSolanki @ twitter
+📫 Reach me @ twitter @_DarshilSolanki 
 
 😄 Pronouns he/him/his
 
