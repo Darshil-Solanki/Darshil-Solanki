@@ -19,7 +19,7 @@ Python, Python-django, Android,MySQl,Oracle,SSMS
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on final year project in python django.
+👩‍💻 I'm currently working on final year project(social media) in python django.
 
 🧠 I'm currently learning Android
 
