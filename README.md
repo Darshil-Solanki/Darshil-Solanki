@@ -31,12 +31,25 @@ Python, Python-django, Android,MySQl,Oracle,SSMS,SEO
 
 :zap: Fun fact: Anyone can code
 
+<p align="left"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Darshil-solanki&show_icons=true&locale=en&layout=compact&theme=onedark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Darshil-solanki&show_icons=true&locale=en&layout=compact">
+  <img alt="Most-used-languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Darshil-solanki&show_icons=true&locale=en&layout=compact">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Darshil-Solanki&show_icons=true&locale=en&theme=onedark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Darshil-Solanki&show_icons=true&locale=en">
+  <img alt="Profil-Status" src="https://github-readme-stats.vercel.app/api?username=Darshil-Solanki&show_icons=true&locale=en">
+</picture></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Darshil-solanki&show_icons=true&locale=en&layout=compact" alt="Darshil-Solanki" /></p>
+<p align="center"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Darshil-Solanki&theme=onedark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Darshil-Solanki">
+  <img alt="Current-streak-and-total-contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=Darshil-Solanki">
+</picture></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Darshil-Solanki&show_icons=true&locale=en" alt="Darshil-Solanki" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Darshil-Solanki&" alt="Darshil-Solanki" /></p>
-
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=Darshil-Solanki&theme=onedark" alt="Darshil-Solanki" /> </p>
-
+<p align="center"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Darshil-Solanki&theme=onedark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Darshil-Solanki">
+  <img alt="Level-Trophy" src="https://github-profile-trophy.vercel.app/?username=Darshil-Solanki">
+</picture></p>
