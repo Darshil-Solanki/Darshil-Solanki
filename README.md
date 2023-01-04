@@ -1,35 +1,35 @@
 
-![Logo](https://github.com/Darshil-Solanki/Darshil-Solanki/blob/main/Banner.jpg)
+![Logo](https://github.com/Darshil-Solanki/Darshil-Solanki/blob/main/MyBanner.gif)
 
 
-# Hi, I'm Darshil Solanki! 👋
+# Hi, I'm Darshil Solanki! :wave:
 
 
 ## :rocket: About Me
-I'm BCA final year Student and full stack developer
+Darshil Solanki from Porbandar here. I'm BCA final year student and full stack developer.
+Learning new technology and skills is my hobby,other than this i love to play chess and swim.
 
-
-## 🛠 Skills
+## :hammer_and_wrench: Skills
 Javascript, HTML, CSS, C,C++, C#,Java, J2EE, 
-Python, Python-django, Android,MySQl,Oracle,SSMS 
+Python, Python-django, Android,MySQl,Oracle,SSMS,SEO 
 
-## 🔗 Links
+## :link: Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshil-solanki/)
 [![twitter](https://img.shields.io/twitter/follow/_darshilsolanki?logo=twitter&style=for-the-badge)](https://twitter.com/_DarshilSolanki)
-
+[![My Portfolio website](https://img.shields.io/static/v1?label=My%20Portfolio&message=darshilsolanki.codes&color=blue)](https://darshilsolanki.codes)
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on final year project(social media) in python django.
+:man_technologist: I'm currently working on final year project(social media) in python django.
 
-🧠 I'm currently learning Android
+:brain: I'm currently learning Android
 
-🤔 I'm looking for help with Python django Social media application
+:monocle_face: I'm looking for help with Python django Social media application
 
-📫 Reach me @ twitter @_DarshilSolanki 
+:mailbox: Reach me @ twitter @_DarshilSolanki 
 
-😄 Pronouns he/him/his
+:smiley: Pronouns he/him/his
 
-⚡️ Fun fact: Anyone can code
+:zap: Fun fact: Anyone can code
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Darshil-solanki&show_icons=true&locale=en&layout=compact" alt="Darshil-Solanki" /></p>
