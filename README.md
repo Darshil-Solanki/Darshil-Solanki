@@ -31,12 +31,13 @@ Python, Python-django, Android,MySQl,Oracle,SSMS,SEO
 
 :zap: Fun fact: Anyone can code
 
-<p align="left"><picture>
+<p align="center"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Darshil-solanki&show_icons=true&locale=en&layout=compact&theme=onedark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Darshil-solanki&show_icons=true&locale=en&layout=compact">
   <img alt="Most-used-languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Darshil-solanki&show_icons=true&locale=en&layout=compact">
-</picture>
-<picture>
+</picture></p>
+
+<p align="center"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Darshil-Solanki&show_icons=true&locale=en&theme=onedark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Darshil-Solanki&show_icons=true&locale=en">
   <img alt="Profil-Status" src="https://github-readme-stats.vercel.app/api?username=Darshil-Solanki&show_icons=true&locale=en">
