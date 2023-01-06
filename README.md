@@ -3,7 +3,7 @@
 
 
 # Hi, I'm Darshil Solanki! :wave:
-
+![Profile Views](https://komarev.com/ghpvc/?username=darshil-solanki&style=for-the-badge)
 
 ## :rocket: About Me
 Darshil Solanki from Porbandar here. I'm BCA final year student and full stack developer.
