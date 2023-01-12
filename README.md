@@ -10,7 +10,7 @@ Darshil Solanki from Porbandar here. I'm BCA final year student and full stack d
 Learning new technology and skills is my hobby,other than this i love to play chess and swim.
 
 ## :hammer_and_wrench: Skills
-Javascript, HTML, CSS, C,C++, C#,Java, J2EE, 
+Javascript, HTML, CSS,![C](https://iconscout.com/lottie/c-programming-language-6432324),C++, C#,Java, J2EE, 
 Python, Python-django, Android,MySQl,Oracle,SSMS,SEO 
 
 ## :link: Links
