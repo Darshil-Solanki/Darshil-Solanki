@@ -10,7 +10,17 @@ Darshil Solanki from Porbandar here. I'm BCA final year student and full stack d
 Learning new technology and skills is my hobby,other than this i love to play chess and swim.
 
 ## :hammer_and_wrench: Skills
-![Javascript](https://img.icons8.com/fluency/48/null/javascript.png) ![Python](https://img.icons8.com/fluency/48/null/python.png) ![Django](https://img.icons8.com/color/48/django.png) ![Node-js](https://img.icons8.com/fluency/48/null/node-js.png) ![HTML](https://img.icons8.com/fluency/48/null/html-5.png) ![CSS](https://img.icons8.com/fluency/48/null/css3.png) ![Bootstrap](https://img.icons8.com/color/48/null/bootstrap.png) ![MySql](https://img.icons8.com/fluency/48/null/mysql-logo.png) ![Php](https://img.icons8.com/fluency/48/null/php.png) ![Java](https://img.icons8.com/color/48/null/java-coffee-cup-logo.png) J2EE, ![Android](https://img.icons8.com/color/48/null/android-studio.png) ![C#](https://img.icons8.com/color/48/null/c-sharp-logo-2.png),Oracle,SSMS,SEO![C++](https://img.icons8.com/fluency/48/null/c-plus-plus-logo.png) ![C](https://img.icons8.com/fluency/48/null/c-programming.png) ![Github](https://img.icons8.com/color/48/null/github.png)![markdown](https://img.icons8.com/fluency/48/null/markdown.png)
+![Javascript](https://img.icons8.com/fluency/48/null/javascript.png) ![Python](https://img.icons8.com/fluency/48/null/python.png) ![HTML](https://img.icons8.com/fluency/48/null/html-5.png) ![CSS](https://img.icons8.com/fluency/48/null/css3.png) ![Php](https://img.icons8.com/fluency/48/null/php.png) ![Java](https://img.icons8.com/color/48/null/java-coffee-cup-logo.png) ![Android](https://img.icons8.com/color/48/null/android-studio.png) ![C#](https://img.icons8.com/color/48/null/c-sharp-logo-2.png) ![C++](https://img.icons8.com/fluency/48/null/c-plus-plus-logo.png) ![C](https://img.icons8.com/fluency/48/null/c-programming.png) 
+ 
+![Django](https://img.icons8.com/color/48/django.png) ![Node-js](https://img.icons8.com/fluency/48/null/node-js.png) ![Bootstrap](https://img.icons8.com/color/48/null/bootstrap.png)
+
+![Oracle](https://img.icons8.com/color/48/null/oracle-logo.png) ![MySql](https://img.icons8.com/fluency/48/null/mysql-logo.png)![Microsoft sql server](https://img.icons8.com/color/48/null/microsoft-sql-server.png)
+
+![SEO](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-seo-marketing-agency-flaticons-lineal-color-flat-icons-4.png)
+
+![Github](https://img.icons8.com/color/48/null/github.png)![markdown](https://img.icons8.com/fluency/48/null/markdown.png)
+### Other Skills
+![Chess](https://img.icons8.com/color/48/null/chess-com.png) ![Swimming](https://img.icons8.com/external-flaticons-flat-flat-icons/64/null/external-swimming-lifestyles-flaticons-flat-flat-icons.png)
 
 ## :link: Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshil-solanki/)
@@ -53,3 +63,9 @@ Learning new technology and skills is my hobby,other than this i love to play ch
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Darshil-Solanki">
   <img alt="Level-Trophy" src="https://github-profile-trophy.vercel.app/?username=Darshil-Solanki">
 </picture></p>
+
+---
+
+- Note:
+  - <sub>icons, used in skill section, by <a href="https://icons8.com" rel="nofollow">Icons8</a></sub>
+  - <sub>statastics show above with help of this project: <a rel="nofollow" href="https://github.com/anuraghazra/github-readme-stats">readme-stats</a></sub>
