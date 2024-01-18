@@ -2,12 +2,17 @@
 ![Logo](https://github.com/Darshil-Solanki/Darshil-Solanki/blob/main/assets/MyBanner.gif)
 
 
-# Hi, I'm Darshil Solanki! :wave:
+# Hello, I'm Darshil Solanki! :wave:
 ![Profile Views](https://komarev.com/ghpvc/?username=darshil-solanki&style=for-the-badge)
 
 ## :rocket: About Me
-Darshil Solanki from Porbandar here. I'm BCA final year student and full stack developer.
-Learning new technology and skills is my hobby,other than this i love to play chess and swim.
+I'm currently immersed in the exciting world of technology, pursuing my Master's in Computer Applications (MCA) at XYZ University. My journey in the realm of computer science is driven by a profound passion for coding and a relentless curiosity that propels me to explore new horizons.
+
+Being a firm believer in the power of knowledge, I thrive on learning new things and pushing the boundaries of my understanding. The thrill of unraveling complex problems and creating innovative solutions fuels my enthusiasm for the endless possibilities that the world of programming presents.
+
+Beyond the confines of code and algorithms, I find joy in the intellectual challenge of chess, where strategic thinking and foresight combine to create a captivating mental battlefield. Additionally, I have a penchant for aquatic endeavors, finding solace and physical rejuvenation in the rhythmic laps of swimming.
+
+Join me on this exciting journey of knowledge acquisition, coding adventures, strategic chess moves, and refreshing swims. Let's explore the boundless possibilities that the intersection of technology and personal interests has to offer! :rocket::computer::mag:
 
 ## :hammer_and_wrench: Skills
 ![Javascript](https://img.icons8.com/fluency/48/null/javascript.png) ![Python](https://img.icons8.com/fluency/48/null/python.png) ![HTML](https://img.icons8.com/fluency/48/null/html-5.png) ![CSS](https://img.icons8.com/fluency/48/null/css3.png) ![Php](https://img.icons8.com/fluency/48/null/php.png) ![Java](https://img.icons8.com/color/48/null/java-coffee-cup-logo.png) ![Android](https://img.icons8.com/color/48/null/android-studio.png) ![C#](https://img.icons8.com/color/48/null/c-sharp-logo-2.png) ![C++](https://img.icons8.com/fluency/48/null/c-plus-plus-logo.png) ![C](https://img.icons8.com/fluency/48/null/c-programming.png) 
@@ -24,8 +29,8 @@ Learning new technology and skills is my hobby,other than this i love to play ch
 
 ## :link: Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshil-solanki/)
-[![twitter](https://img.shields.io/twitter/follow/_darshilsolanki?logo=twitter&style=for-the-badge)](https://twitter.com/_DarshilSolanki)
-[![My Portfolio website](https://img.shields.io/static/v1?label=My%20Portfolio&message=darshilsolanki.codes&color=blue)](https://darshilsolanki.codes)
+
+
 
 ## Other Common Github Profile Sections
 :man_technologist: I'm currently working on final year project(social media) in python django.
@@ -34,7 +39,7 @@ Learning new technology and skills is my hobby,other than this i love to play ch
 
 :monocle_face: I'm looking for help with Python django Social media application
 
-:mailbox: Reach me @ twitter @_DarshilSolanki 
+:mailbox: Reach me @  [linkedin](https://www.linkedin.com/in/darshil-solanki/)
 
 :smiley: Pronouns he/him/his
 
