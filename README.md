@@ -6,7 +6,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=darshil-solanki&style=for-the-badge)
 
 ## :rocket: About Me
-I'm currently immersed in the exciting world of technology, pursuing my Master's in Computer Applications (MCA) at XYZ University. My journey in the realm of computer science is driven by a profound passion for coding and a relentless curiosity that propels me to explore new horizons.
+I'm currently immersed in the exciting world of technology, pursuing my Master's in Computer Applications (MCA) at The Maharaja Sayajirao University of Baroda. My journey in the realm of computer science is driven by a profound passion for coding and a relentless curiosity that propels me to explore new horizons.
 
 Being a firm believer in the power of knowledge, I thrive on learning new things and pushing the boundaries of my understanding. The thrill of unraveling complex problems and creating innovative solutions fuels my enthusiasm for the endless possibilities that the world of programming presents.
 
