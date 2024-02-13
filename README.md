@@ -33,11 +33,11 @@ Join me on this exciting journey of knowledge acquisition, coding adventures, st
 
 
 ## Other Common Github Profile Sections
-:man_technologist: I'm currently working on final year project(social media) in python django.
+:man_technologist: I'm currently working on Code Unnati Innovation marathon project in python(cv-ml).
 
-:brain: I'm currently learning Android
+:brain: I'm currently learning Advanced Python and JavaScript
 
-:monocle_face: I'm looking for help with Python django Social media application
+:monocle_face: I'm looking for internship in Python and JavaScript(Full Stack Development).
 
 :mailbox: Reach me @  [linkedin](https://www.linkedin.com/in/darshil-solanki/)
 
