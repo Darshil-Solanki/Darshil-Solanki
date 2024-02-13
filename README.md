@@ -29,7 +29,9 @@ Join me on this exciting journey of knowledge acquisition, coding adventures, st
 
 ## :link: Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshil-solanki/)
-
+[![leetcode](https://img.shields.io/badge/LeetCode-grey?style=for-the-badge&logo=leetcode)](https://leetcode.com/DarshilSolanki)
+[![hackerrank](https://img.shields.io/badge/HackerRank-grey?style=for-the-badge&logo=hackerrank)](https://hackerrank.com/profile/darshil_solanki)
+[![chess](https://img.shields.io/badge/Chess-grey?style=for-the-badge)](https://www.chess.com/member/64darshil64)
 
 
 ## Other Common Github Profile Sections
